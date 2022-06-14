@@ -27,7 +27,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/mustafaoezkan/expense-tracker.git
+   git clone https://github.com/MynodeJSWorks/backend-of-expense-tracker.git
    ```
 2. Install NPM packages
    ```sh
