@@ -21,7 +21,7 @@ server.get("/", (req, res) => {
     res
         .status(200)
         .send(
-            `<a href="https://github.com/mustafaoezkan/expense-tracker-fe" target="_blank">App</a>`
+            `<a href="https://expense-tracker-eight-self.vercel.app/" target="_blank">App</a>`
         );
 });
 server.use(catchAllErrorHandler);
