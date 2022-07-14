@@ -9,7 +9,7 @@
     <a href="https://github.com/mustafaoezkan/expense-tracker">GitHub Repository</a>
   </p>
   <h5>
-    You can try with this credientals:
+    You can try with these credientals:
   </h5>
   <h4>
     Username: example
