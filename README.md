@@ -45,7 +45,7 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Mustafa Özkan - [@mstfozknnn](https://twitter.com/mstfozknnn) - mustafaozkandev@yahoo.com
+Mustafa Özkan - [@mstfozknnn](https://twitter.com/mstfozknnn)
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
